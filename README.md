@@ -64,7 +64,7 @@ Create a virtual environment:
 
 ### Project Structure
 
-    ```bash
+    ```
       fastapi-jwt/
       ├── blog/
       │   ├── database.py - Database connection and session management
